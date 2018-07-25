@@ -14,7 +14,7 @@ spec:
   source:
     contextDir: image
     git:
-      uri: https://github.com/lany7/redis-openshift.git
+      uri: https://github.com/lany7/redis-statefulset.git
     type: Git
   strategy:
     dockerStrategy:
